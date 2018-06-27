@@ -1,0 +1,1 @@
+A simple, GUI-driven sentiment analysis program. Built around [Stanford's CoreNLP for .NET](https://sergey-tihon.github.io/Stanford.NLP.NET/StanfordCoreNLP.html) (v3.9.1, English model). Uses a trained RNN model to classify sentences from "very negative" to "very positive". Produces sentence-level and document-level scores as output.
